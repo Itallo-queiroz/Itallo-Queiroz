@@ -1,13 +1,10 @@
 ## Oiii! Eu sou o ITALLO QUEIROZ
 Desenvolvedor Python em formação
 
-Sou um entusiasta da programação e estou atualmente focado em aprender e dominar Python. Estou explorando várias áreas, desde projetos simples até conceitos mais avançados, e compartilhando meu progresso e aprendizado aqui no GitHub.
+Entusiasta da programação, atualmente focado em aprender e dominar Python.
 
 📚 Estudando: Python
-
-🌱 Projetos em andamento: Mad Libs, Jogo da Forca, Adivinhação de Números
-
-🚀 Objetivo: Tornar-me um desenvolvedor back-end
+🚀 Objetivo: Tornar-me desenvolvedor back-end
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itallo-queiroz&show_icons=true&theme=transparent)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itallo-queiroz&layout=compact&show_icons=true&theme=transparent)
 
