@@ -4,6 +4,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itallo-queiroz&layout=compact)
 
+![Python](https://img.icons8.com/color/48/000000/python.png)
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+   
+   
+   
           
