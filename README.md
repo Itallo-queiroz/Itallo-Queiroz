@@ -14,6 +14,8 @@ Sou um entusiasta da programação e estou atualmente focado em aprender e domin
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itallo-queiroz&layout=compact)
 
 ![Python](https://img.icons8.com/color/80/000000/python.png)
+
+
 Python
 
 ##
