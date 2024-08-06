@@ -1,4 +1,4 @@
-## Oii! Eu sou o Itallo Queiroz 👨🏻‍💻👨🏻‍💻👨🏻‍💻
+## Oiii! Eu sou o Itallo Queiroz 👨🏻‍💻👨🏻‍💻👨🏻‍💻
 Desenvolvedor Python em formação
 
 Sou um entusiasta da programação e estou atualmente focado em aprender e dominar Python. Estou explorando várias áreas, desde projetos simples até conceitos mais avançados, e compartilhando meu progresso e aprendizado aqui no GitHub.
