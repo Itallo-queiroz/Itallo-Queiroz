@@ -15,8 +15,7 @@ Sou um entusiasta da programação e estou atualmente focado em aprender e domin
 
 ![Python](https://img.icons8.com/color/80/000000/python.png)
 
-
-Python
+## PYTHON
 
 ##
 
