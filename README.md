@@ -9,9 +9,7 @@ Sou um entusiasta da programação e estou atualmente focado em aprender e domin
 
 🚀 Objetivo: Tornar-me um desenvolvedor back-end
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itallo-queiroz&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itallo-queiroz&layout=compact&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itallo-queiroz&show_icons=true&theme=transparent)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itallo-queiroz&layout=compact&show_icons=true&theme=transparent)
 
 ![Python](https://img.icons8.com/color/100/000000/python.png)
 ##   PYTHON
