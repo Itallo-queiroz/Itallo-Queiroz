@@ -3,8 +3,8 @@ Desenvolvedor Python em formação
 
 Entusiasta da programação, atualmente focado em aprender e dominar Python.
 
-📚 Estudando: Python
-🚀 Objetivo: Tornar-me desenvolvedor back-end
+📚 Estudando: **Python** & **IA**
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itallo-queiroz&show_icons=true&theme=transparent)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itallo-queiroz&layout=compact&show_icons=true&theme=transparent)
 
