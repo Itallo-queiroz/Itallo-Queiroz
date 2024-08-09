@@ -1,5 +1,5 @@
 ## Oiii! Eu sou o ITALLO QUEIROZ
-Desenvolvedor Python em formação
+## *Desenvolvedor Python em formação*
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itallo-queiroz&show_icons=true&theme=transparent)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itallo-queiroz&layout=compact&show_icons=true&theme=transparent)
 
